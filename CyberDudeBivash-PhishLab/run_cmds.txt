@@ -1,0 +1,4 @@
+cd cdb_phishlab
+export FLASK_APP=backend.app:create_app
+flask --app backend.app:create_app init-db
+flask --app backend.app:create_app run

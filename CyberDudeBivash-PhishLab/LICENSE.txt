@@ -1,0 +1,90 @@
+CYBERDUDEBIVASH PVT LTD  
+INTERNAL USE LICENSE v1.0  
+Last Updated: 2025-11-18
+
+Copyright (c) CyberDudeBivash Pvt Ltd.
+All Rights Reserved.
+
+This software (the “Software”) is a proprietary product of CyberDudeBivash Pvt Ltd.
+By accessing, downloading, installing, or using the Software, you (“User”) agree to
+be bound by the terms of this Internal Use License.
+
+----------------------------------------------------------------------
+1. GRANT OF LICENSE
+----------------------------------------------------------------------
+CyberDudeBivash Pvt Ltd grants the User a non-exclusive, non-transferable,
+revocable, limited license to use the Software solely for:
+
+  • Internal security training
+  • Red-team simulations
+  • Awareness exercises
+  • Demonstrations to clients
+  • Research, development, and evaluation inside CyberDudeBivash Pvt Ltd
+
+This license does NOT permit any distribution, sale, sublicensing, or public release.
+
+----------------------------------------------------------------------
+2. RESTRICTIONS
+----------------------------------------------------------------------
+User shall NOT:
+
+  • Redistribute, publish, upload, or host the Software publicly
+  • Sell, rent, lease, or sublicense the Software in any form
+  • Reverse-engineer, decompile, or modify the Software for malicious use
+  • Use the Software for credential interception, unauthorized access,
+    or any activity violating applicable laws or ethics
+  • Remove, modify, or obscure any CyberDudeBivash trademarks or notices
+
+----------------------------------------------------------------------
+3. OWNERSHIP
+----------------------------------------------------------------------
+The Software is owned exclusively by CyberDudeBivash Pvt Ltd.
+This license does not transfer ownership or intellectual property rights.
+
+All names, logos, and marks including “CyberDudeBivash” are trademarks of
+CyberDudeBivash Pvt Ltd and may not be used without written permission.
+
+----------------------------------------------------------------------
+4. CONFIDENTIALITY
+----------------------------------------------------------------------
+The User must treat the Software and its source code as confidential.
+The Software may not be shared with any third parties without prior
+written approval from CyberDudeBivash Pvt Ltd.
+
+----------------------------------------------------------------------
+5. LIMITATION OF LIABILITY
+----------------------------------------------------------------------
+The Software is provided “AS IS”, without warranty of any kind.
+CyberDudeBivash Pvt Ltd shall not be liable for any damages, losses,
+or liabilities arising out of or related to its use.
+
+----------------------------------------------------------------------
+6. TERMINATION
+----------------------------------------------------------------------
+CyberDudeBivash Pvt Ltd reserves the right to revoke this license at any time.
+Upon termination, the User must immediately discontinue use and destroy all copies.
+
+----------------------------------------------------------------------
+7. PERMITTED SECURITY USAGE (IMPORTANT)
+----------------------------------------------------------------------
+Only the following uses are permitted:
+  • Simulated phishing exercises within controlled environments
+  • Red-team and blue-team drills
+  • Awareness training for organizations
+  • Security education, research, and development
+  • Offline demonstrations for clients
+
+The Software may NOT be used for:
+  • Live credential harvesting
+  • Interception of real authentication sessions
+  • Illegal penetration testing without written authorization
+  • Bypassing security controls of any third-party service
+
+----------------------------------------------------------------------
+8. CONTACT
+----------------------------------------------------------------------
+CyberDudeBivash Pvt Ltd  
+Website: https://cyberdudebivash.com  
+Email: iambivash@cyberdudebivash.com
+
+© CyberDudeBivash Pvt Ltd. All Rights Reserved.

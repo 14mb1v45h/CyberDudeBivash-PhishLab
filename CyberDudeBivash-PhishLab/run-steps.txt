@@ -1,0 +1,8 @@
+cd cdb_phishlab/backend
+pip install -r ../requirements.txt
+flask --app app.py init-db
+flask --app app.py run
+
+Hit http://127.0.0.1:5000 and start testing.
+
+Use POST /admin/campaigns + /admin/campaigns/<id>/targets (via Postman/curl) to create your first campaign and links.
